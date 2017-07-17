@@ -1,6 +1,6 @@
 # For issue report only
 
-This repo is a demo for a bug issue in https://github.com/facebook/react-native/issues/14968.
+This repo is a demo for a bug issue in https://github.com/facebook/react-native/issues/15051.
 
 
 ## Issues
